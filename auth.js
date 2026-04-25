@@ -1,1 +1,4 @@
-console.log('Hello from Auth Feature');
+
+function hello(){
+console.log("Hello User");
+}
